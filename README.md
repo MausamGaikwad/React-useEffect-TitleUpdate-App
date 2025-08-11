@@ -39,7 +39,7 @@ Update-App/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/update-app.git
+git clone  https://github.com/MausamGaikwad/React-useEffect-TitleUpdate-App.git
 
 # Navigate to the project folder
 cd update-app
